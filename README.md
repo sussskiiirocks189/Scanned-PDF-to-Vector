@@ -73,4 +73,12 @@ The core data parsing capability is powered by MinerU. This project is a post-pr
 
 
 ## 📄 License
-MIT License © 2024 [Gechen]
+MIT License © 2026 Gechen
+
+
+
+
+
+
+
+
